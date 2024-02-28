@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vwt73hB6l8iSBJzlYedgOIefC4Ts5YkZxSAa5OBnNTg=",
+  "Source": "ElectronicsMicroService",
+  "BasePath": "_content/ElectronicsMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
