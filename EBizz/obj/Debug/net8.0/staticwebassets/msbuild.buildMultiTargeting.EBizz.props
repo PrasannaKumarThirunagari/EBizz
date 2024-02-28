@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EBizz.props" />
+</Project>
